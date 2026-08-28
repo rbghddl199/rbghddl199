@@ -1,4 +1,4 @@
-**조규홍 ChoKyuHong**
+**조규홍 KYUHONG CHO**
 
 <a href="mailto:rbghddl199@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
