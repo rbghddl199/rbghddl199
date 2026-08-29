@@ -1,7 +1,6 @@
 <b>조규홍 KYUHONG CHO</b><br>
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-
+<a href="mailto:rbghddl199@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="mailto:rbghddl19@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <hr>
 
 <b>Stack</b>
