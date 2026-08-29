@@ -25,7 +25,7 @@
 
 <b>Training & Experience</b>
 
-- Samsung SW·AI Academy For Youth (SSAFY) 15th (2026.01 ~ Present)
+- 삼성 SW·AI 아카데미 For Youth (SSAFY) 15th (2026.01 ~ Present)
 
 <hr>
 
@@ -98,11 +98,11 @@
 
 <b>Education</b>
 
-🎓 **Sejong University** (2020.03 ~ 2022.02)  
-📝 Department of Nano Technology and Advanced Materials Engineering
+🎓 **세종대학교** (2020.03 ~ 2022.02)  
+📝 나노신소재공학과
 
-🎓 **Hoseo University, Asan** (2017.03 ~ 2020.02)  
-📝 Department of Electronic Materials Engineering
+🎓 **호서대학교 아산캠퍼스** (2017.03 ~ 2020.02)  
+📝 전자재료공학과
 
 <br>
 
