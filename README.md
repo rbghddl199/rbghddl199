@@ -44,7 +44,7 @@
 React, TypeScript, Tailwind CSS · Spring Boot(Java) · Python, FastAPI, CatBoost · PostgreSQL · Docker · Hadoop, Spark, Airflow
 
 <h6>GitHub</h6>
-<a href="https://github.com/rbghddl199/NONGDAM">🔗 github.com/rbghddl199/NONGDAM</a>
+<a href="https://github.com/rbghddl199/NONGDAM">🔗 github.com/rbghddl199/NONGDAM(미완성)</a>
 
 </details>
 
@@ -64,7 +64,7 @@ React, TypeScript, Tailwind CSS · Spring Boot(Java) · Python, FastAPI, CatBoos
 Next.js, React, Three.js, TypeScript, Tailwind CSS, Zustand · Spring Boot(Java), JPA, QueryDSL · PostgreSQL, Redis, Elasticsearch · Docker, Jenkins
 
 <h6>GitHub</h6>
-<a href="https://github.com/rbghddl199/DERO">🔗 github.com/rbghddl199/DERO</a>
+<a href="https://github.com/rbghddl199/DERO">🔗 github.com/rbghddl199/DERO(미완성)</a>
 
 </details>
 
@@ -127,7 +127,7 @@ Vue 3, Pinia · Django REST Framework, JWT · SQLite · Kakao Map · OpenAI(GPT)
 React, TypeScript, Tailwind CSS, Python, Docker
 
 <h6>GitHub</h6>
-<a href="https://github.com/rbghddl199/NONGDAM-JP">🔗 github.com/rbghddl199/NONGDAM-JP</a>
+<a href="https://github.com/rbghddl199/NONGDAM-JP">🔗 github.com/rbghddl199/NONGDAM-JP(未完成)</a>
 
 </details>
 
@@ -147,7 +147,7 @@ React, TypeScript, Tailwind CSS, Python, Docker
 Next.js, React, Three.js, TypeScript, Tailwind CSS, Zustand · Spring Boot(Java), JPA, QueryDSL · PostgreSQL, Redis, Elasticsearch · Docker, Jenkins
 
 <h6>GitHub</h6>
-<a href="https://github.com/rbghddl199/DERO-JP">🔗 github.com/rbghddl199/DERO-JP</a>
+<a href="https://github.com/rbghddl199/DERO-JP">🔗 github.com/rbghddl199/DERO-JP(未完成)</a>
 
 </details>
 
