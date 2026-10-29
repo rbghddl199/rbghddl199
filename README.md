@@ -47,10 +47,9 @@
 
 <h6>담당 역할</h6>
 
-- 프론트엔드 초기 구조 설계 및 로그인 화면 구현
-- 홈 화면, 서비스 소개 페이지, 가격 정보/상세 페이지 구현
-- 커뮤니티(레시피마당) 화면 구성 및 카드 UI 개발
-- 아이콘·폰트·반응형 레이아웃 등 UI 디테일 정리
+- 프론트엔드 개발 (React, TypeScript, Tailwind CSS)
+- 로그인·홈·가격 정보·커뮤니티 화면 구현 및 반응형 UI 개선
+- 농산물 데이터 수집·전처리 및 배치 처리 (Hadoop, Spark, Airflow)
 
 <h6>Tech Stack (프로젝트 전체)</h6>
 React, TypeScript, Tailwind CSS · Spring Boot(Java) · Python, FastAPI, CatBoost · PostgreSQL · Docker · Hadoop, Spark, Airflow
@@ -139,10 +138,9 @@ Vue 3, Pinia · Django REST Framework, JWT · SQLite · Kakao Map · OpenAI(GPT)
 
 <h6>担当業務</h6>
 
-- フロントエンドの初期構造設計およびログイン画面の実装
-- ホーム画面、サービス紹介ページ、価格情報・詳細ページの実装
-- コミュニティ(レシピ広場)画面の構成とカードUIの開発
-- アイコン・フォント・レスポンシブレイアウトなどUI細部の調整
+- フロントエンド開発（React, TypeScript, Tailwind CSS）
+- ログイン・ホーム・価格情報・コミュニティ画面の実装およびレスポンシブUIの改善
+- 農産物データの収集・前処理およびバッチ処理（Hadoop, Spark, Airflow）
 
 <h6>Tech Stack (プロジェクト全体)</h6>
 React, TypeScript, Tailwind CSS · Spring Boot(Java) · Python, FastAPI, CatBoost · PostgreSQL · Docker · Hadoop, Spark, Airflow
